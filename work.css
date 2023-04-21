@@ -1,0 +1,405 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+.main-bg {
+    background-color: #f29b9b;
+    background-size: cover;
+    width: 140vw;
+}
+
+.main-profile-card {}
+
+.profile-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.profile-icon {
+    height: 60px;
+    width: 60px;
+    border-radius: 50px;
+    border-color: #001f4d;
+    border-style: solid;
+
+
+}
+
+.profile-name {
+    color: #001f4d;
+    font-family: "Roboto";
+    font-size: 13px;
+}
+
+.name-card {
+    border-right: 4px solid #001f4d;
+    border-bottom: 4px solid #001f4d;
+}
+
+.name {
+    color: #001f4d;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: bold;
+
+}
+
+.art-director {
+    color: #001f4d;
+    font-family: "Roboto";
+    font-size: 13px;
+}
+
+.address-card {
+    border-bottom: 4px solid #001f4d;
+}
+
+.address {
+    color: #001f4d;
+    font-family: "Roboto";
+    font-size: 12px;
+    text-align: ;
+}
+
+
+.main-work-card {}
+
+.work-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.work-icon-circle {
+    height: 60px;
+    width: 60px;
+    border-radius: 50px;
+    border-color: #001f4d;
+    border-style: solid;
+}
+
+.work-icon {
+    color: #001f4d;
+    font-size: 28px;
+    text-align: ;
+}
+
+.work-name {
+    color: #001f4d;
+    font-family: "Roboto";
+    font-size: 13px;
+    text-align: ;
+}
+
+.years-card {}
+
+.years {
+    color: #001f4d;
+    font-family: "Roboto";
+    font-size: 10px;
+    text-align: ;
+}
+
+.designation-card {}
+
+.designation {
+    color: #001f4d;
+    font-family: "Roboto";
+    font-size: 11px;
+    text-align: ;
+    font-weight: bold;
+}
+
+.designation-description {
+    color: #001f4d;
+    font-family: "Roboto";
+    font-size: 10px;
+    text-align: ;
+}
+
+
+
+.main-skills-awards-card {}
+
+.skills-awards-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.skill-icon-circle {
+    height: 60px;
+    width: 60px;
+    border-radius: 50px;
+    border-color: #001f4d;
+    border-style: solid;
+}
+
+.skill-icon {
+    color: #001f4d;
+    font-size: 28px;
+
+}
+
+.skills-awards {
+    color: #001f4d;
+    font-family: "Roboto";
+    font-size: 13px;
+}
+
+.skills-card {
+    border-top: 4px solid #001f4d;
+    border-bottom: 4px solid #001f4d;
+}
+
+.skills {
+    color: #001f4d;
+    font-family: "Roboto";
+    font-size: 11px;
+}
+
+.skills-points-card {
+    border-top: 4px solid #001f4d;
+    border-bottom: 4px solid #001f4d;
+    border-right: 4px solid #001f4d;
+
+}
+
+.skills-points {}
+
+.dot {
+    font-size: 7px;
+    color: #001f4d;
+}
+
+.awards-years-card {
+    border-top: 4px solid #001f4d;
+    border-bottom: 4px solid #001f4d;
+}
+
+.awards-years {
+    color: #001f4d;
+    font-family: "Roboto";
+    font-size: 11px;
+}
+
+.awards-card {
+    border-top: 4px solid #001f4d;
+    border-bottom: 4px solid #001f4d;
+}
+
+.awards {
+    color: #001f4d;
+    font-family: "Roboto";
+    font-size: 11px;
+    text-align: ;
+    font-weight: bold;
+}
+
+.awards-description {
+    color: #001f4d;
+    font-family: "Roboto";
+    font-size: 10px;
+    text-align: ;
+}
+
+
+
+.main-interests-card {}
+
+.interests-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.interest-icon-circle {
+    height: 60px;
+    width: 60px;
+    border-radius: 50px;
+    border-color: #001f4d;
+    border-style: solid;
+}
+
+.interest-icon {
+    color: #001f4d;
+    font-size: 28px;
+
+}
+
+.interests {
+    color: #001f4d;
+    font-family: "Roboto";
+    font-size: 13px;
+}
+
+.interests-types-card {}
+
+.interests-internet-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.internet-icon-circle {
+    height: 60px;
+    width: 60px;
+    border-radius: 50px;
+    border-color: #001f4d;
+    border-style: solid;
+    background-color: #001f4d;
+}
+
+.internet-icon {
+    color: #001f4d;
+    font-size: 25px;
+    color: #f29eab;
+
+}
+
+.interests-name {
+    color: #001f4d;
+    font-family: "Roboto";
+    font-size: 10px;
+}
+
+.internet-icon-circle {
+    height: 60px;
+    width: 60px;
+    border-radius: 50px;
+    border-color: #001f4d;
+    border-style: solid;
+    background-color: #001f4d;
+}
+
+.internet-icon {
+    color: #001f4d;
+    font-size: 25px;
+    color: #f29eab;
+
+}
+
+.interests-sketching-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.sketching-icon-circle {
+    height: 60px;
+    width: 60px;
+    border-radius: 50px;
+    border-color: #001f4d;
+    border-style: solid;
+    background-color: #001f4d;
+}
+
+.sketching-icon {
+    color: #001f4d;
+    font-size: 25px;
+    color: #f29eab;
+
+}
+
+.interests-movies-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.movies-icon-circle {
+    height: 60px;
+    width: 60px;
+    border-radius: 50px;
+    border-color: #001f4d;
+    border-style: solid;
+    background-color: #001f4d;
+}
+
+.movies-icon {
+    color: #001f4d;
+    font-size: 25px;
+    color: #f29eab;
+
+}
+
+.interests-music-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.music-icon-circle {
+    height: 60px;
+    width: 60px;
+    border-radius: 50px;
+    border-color: #001f4d;
+    border-style: solid;
+    background-color: #001f4d;
+}
+
+.music-icon {
+    color: #001f4d;
+    font-size: 25px;
+    color: #f29eab;
+
+}
+
+.main-education-card {}
+
+.education-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.education-icon-circle {
+    height: 60px;
+    width: 60px;
+    border-radius: 50px;
+    border-color: #001f4d;
+    border-style: solid;
+    background-color: #f29b9b;
+}
+
+.education-icon {
+    color: #001f4d;
+    font-size: 25px;
+    color: #001f4d;
+
+}
+
+.education {
+    color: #001f4d;
+    font-family: "Roboto";
+    font-size: 13px;
+}
+
+.education-years-card {
+    border-top: 4px solid #001f4d;
+}
+
+.education-years {
+    color: #001f4d;
+    font-family: "Roboto";
+    font-size: 11px;
+}
+
+.education-colleges-card {
+    border-top: 4px solid #001f4d;
+
+}
+
+.education-colleges-names {
+    color: #001f4d;
+    font-family: "Roboto";
+    font-size: 11px;
+    font-weight: bold;
+}
+
+.education-colleges-branch {
+    color: #001f4d;
+    font-family: "Roboto";
+    font-size: 10px;
+}
